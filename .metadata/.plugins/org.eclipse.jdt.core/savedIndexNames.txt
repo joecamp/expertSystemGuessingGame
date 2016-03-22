@@ -1,2 +1,0 @@
-INDEX VERSION 1.127+E:\GitHub\expertSystemGuessingGame\.metadata\.plugins\org.eclipse.jdt.core
-2935319375.index
