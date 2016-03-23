@@ -3,6 +3,7 @@ package animals;
 public class Ostrich extends Animal {
 	
 	public Ostrich() {
+		this.name = "Ostrich";
 		this.flies = false;
 		this.fur = false;
 		this.toughSkin = false;
@@ -13,7 +14,6 @@ public class Ostrich extends Animal {
 		this.layEggs = true;
 		this.hasHooves = false;
 		this.hasHorns = false;
-		this.nocturnal = false;
 		this.hasClaws = true;
 		this.hasTail = false;
 		this.hasStripes = false;

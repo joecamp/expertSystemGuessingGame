@@ -3,6 +3,7 @@ package animals;
 public class Hippopotamus extends Animal {
 	
 	public Hippopotamus() {
+		this.name = "Hippopotamus";
 		this.flies = false;
 		this.fur = false;
 		this.toughSkin = true;
@@ -13,7 +14,6 @@ public class Hippopotamus extends Animal {
 		this.layEggs = false;
 		this.hasHooves = false;
 		this.hasHorns = false;
-		this.nocturnal = false;
 		this.hasClaws = false;
 		this.hasTail = true;
 		this.hasStripes = false;

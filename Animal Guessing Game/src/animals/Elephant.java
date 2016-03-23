@@ -3,6 +3,7 @@ package animals;
 public class Elephant extends Animal {
 	
 	public Elephant() {
+		this.name = "Elephant";
 		this.flies = false;
 		this.fur = false;
 		this.toughSkin = true;
@@ -13,7 +14,6 @@ public class Elephant extends Animal {
 		this.layEggs = false;
 		this.hasHooves = false;
 		this.hasHorns = false;
-		this.nocturnal = false;
 		this.hasClaws = false;
 		this.hasTail = true;
 		this.hasStripes = false;

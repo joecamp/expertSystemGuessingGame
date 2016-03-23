@@ -3,6 +3,7 @@ package animals;
 public class Llama extends Animal {
 	
 	public Llama() {
+		this.name = "Llama";
 		this.flies = false;
 		this.fur = false;
 		this.toughSkin = false;
@@ -13,7 +14,6 @@ public class Llama extends Animal {
 		this.layEggs = false;
 		this.hasHooves = true;
 		this.hasHorns = false;
-		this.nocturnal = false;
 		this.hasClaws = false;
 		this.hasTail = false;
 		this.hasStripes = false;
